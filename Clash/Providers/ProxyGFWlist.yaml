@@ -1,4 +1,7 @@
 payload:
+  # MyList
+  - DOMAIN-SUFFIX,picui.cn
+
   - DOMAIN-SUFFIX,*2.bahamut.com.tw
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,0rz.tw
