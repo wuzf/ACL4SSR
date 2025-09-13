@@ -1,0 +1,7 @@
+# 补充直连
+# 放在其他规则前面。
+
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,bugly.tds.qq.com
+DOMAIN-SUFFIX,99.com
+DOMAIN-SUFFIX,ndhy.com
